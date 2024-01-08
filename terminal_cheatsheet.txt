@@ -1,0 +1,16 @@
+pwd => present working directory
+ls / ll => shows everything inside that folder
+cd folder_name => change directory - moves inside another folder
+cd .. => moves backwards
+mkdir new_folder_name => creater a new directory
+touch new_file => creates a new new_file
+rm filename => removes a filename
+rm -r/rm -rf folder_name => removes a folder and all it's content
+mv filename folder_name => moves file inside another folder
+mv filename new_filename => renames a file
+code . => opens the folder in vs code
+open . => opens in the finder 
+wslview .
+explorer.exe .
+
+open index.html => opens html file in the browser
