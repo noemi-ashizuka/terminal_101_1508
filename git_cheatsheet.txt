@@ -1,0 +1,11 @@
+git init => to start tracking with git a project
+git status => check the changes to the files
+git diff filename => check the changes with the previous version
+git log / git lg => history, all of the commits 
+git remote -v => check the repo connections
+gh repo create => creates a repo on github
+
+To make a commit: 3 steps
+git add filename => stages the files
+git commit --message "your meaningful message"/ git commit -m "your meaningful message" => creates a savepoint
+git push origin master => pushes my changes to github
